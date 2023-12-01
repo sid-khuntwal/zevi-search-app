@@ -1,6 +1,5 @@
 import React from "react";
 import "./ProductsResults.scss";
-
 import { ProductType } from "../FakerData/FakerData";
 import ProductItem from "./ProductItem";
 

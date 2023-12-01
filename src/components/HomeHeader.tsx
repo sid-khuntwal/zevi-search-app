@@ -1,6 +1,7 @@
 import React from "react";
 import zevi_logo from "../themes/SVGs/zevi_logo_svg.svg";
 import "./HomeHeader.scss";
+
 const HomeHeader = () => {
   return (
     <div className="home_header">

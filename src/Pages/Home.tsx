@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import "./Home.scss";
 import { useNavigate } from "react-router-dom";
-
 import { RiSearch2Line } from "react-icons/ri";
-
 import home_bg from "../themes/PNGs/home_bg.png";
 import HomeHeader from "../components/HomeHeader";
 import {
